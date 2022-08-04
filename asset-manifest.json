@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rehmange/covid/static/css/main.84b1d124.css",
+    "main.js": "/rehmange/covid/static/js/main.945ac043.js",
+    "static/js/787.ed3b0c3e.chunk.js": "/rehmange/covid/static/js/787.ed3b0c3e.chunk.js",
+    "index.html": "/rehmange/covid/index.html",
+    "main.84b1d124.css.map": "/rehmange/covid/static/css/main.84b1d124.css.map",
+    "main.945ac043.js.map": "/rehmange/covid/static/js/main.945ac043.js.map",
+    "787.ed3b0c3e.chunk.js.map": "/rehmange/covid/static/js/787.ed3b0c3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b1d124.css",
+    "static/js/main.945ac043.js"
+  ]
+}
